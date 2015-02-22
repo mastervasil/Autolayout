@@ -77,11 +77,9 @@
 		E948E1991A9A8B7800D82F18 /* Autolayout */ = {
 			isa = PBXGroup;
 			children = (
-				E948E19C1A9A8B7800D82F18 /* AppDelegate.swift */,
 				E948E19E1A9A8B7800D82F18 /* ViewController.swift */,
 				E948E1A01A9A8B7800D82F18 /* Main.storyboard */,
 				E948E1A31A9A8B7800D82F18 /* Images.xcassets */,
-				E948E1A51A9A8B7800D82F18 /* LaunchScreen.xib */,
 				E948E19A1A9A8B7800D82F18 /* Supporting Files */,
 			);
 			path = Autolayout;
@@ -90,6 +88,8 @@
 		E948E19A1A9A8B7800D82F18 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E948E19C1A9A8B7800D82F18 /* AppDelegate.swift */,
+				E948E1A51A9A8B7800D82F18 /* LaunchScreen.xib */,
 				E948E19B1A9A8B7800D82F18 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -170,7 +170,7 @@
 			};
 			buildConfigurationList = E948E1921A9A8B7800D82F18 /* Build configuration list for PBXProject "Autolayout" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = Russian;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
